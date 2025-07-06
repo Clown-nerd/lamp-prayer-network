@@ -121,7 +121,7 @@ const Contact = () => {
                       </div>
                       <div>
                         <h4 className="font-semibold text-primary">Email</h4>
-                        <p className="text-muted-foreground">info@lampministry.org</p>
+                        <p className="text-muted-foreground">lampforthenations@gmail.com</p>
                       </div>
                     </div>
                     
@@ -131,7 +131,7 @@ const Contact = () => {
                       </div>
                       <div>
                         <h4 className="font-semibold text-primary">Phone</h4>
-                        <p className="text-muted-foreground">+1 (555) 123-PRAY</p>
+                        <p className="text-muted-foreground">+254 (731) 744 555</p>
                       </div>
                     </div>
                     
@@ -142,9 +142,9 @@ const Contact = () => {
                       <div>
                         <h4 className="font-semibold text-primary">Mailing Address</h4>
                         <p className="text-muted-foreground">
-                          LAMP Ministry<br />
+                          Ufungamano Hse<br />
                           P.O. Box 1234<br />
-                          Prayer City, PC 12345
+                          Statehouse Rd., Nairobi
                         </p>
                       </div>
                     </div>
